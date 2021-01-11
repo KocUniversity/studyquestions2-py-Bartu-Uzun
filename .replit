@@ -1,1 +1,3 @@
 language = "python3"
+
+run = "python inheritance_q5.py"
